@@ -1,2 +1,2 @@
 # rtes-messaging
-A Messaging Application for Real Time Embedded Systems
+This repository stores the code for a messaging application for Real Time Embedded Systems.
